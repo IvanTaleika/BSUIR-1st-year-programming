@@ -1,0 +1,1 @@
+Simple "Akinator" game. Implementation is based on simple binary tree.
